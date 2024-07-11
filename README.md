@@ -1,5 +1,5 @@
 # ForoHub API
-
+ <img src="Badge-Spring.png" width="200" height="200" alt="Imagen de ejemplo">
 Bienvenido a la documentación de la API ForoHub, una aplicación RESTful desarrollada con Spring que proporciona funcionalidades completas para gestionar un foro educativo.
 
 ## Descripción
